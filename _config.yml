@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Spark"
+name                     : "Sparknote"
 description              : "An amazing website."
 url                      : "https://sparknote.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
